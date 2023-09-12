@@ -26,7 +26,7 @@ $resultado = $a * $b ;
 echo "La Multiplicacion de $a y $b es de:  $resultado  <br><br>"; // Multiplicacion
 $resultado = $a / $b ;
 echo "La divicion  de $a y $b es de:  $resultado  <br><br>"; // Divicion
-$resultado = $a % $b ;
+$resultado = $a ** $b ;
 echo "El resto de una divicion entre $a y $b es de:  $resultado  <br><br>"; // Resto de divicion entera
 
 //Realizar la transformación de grados Celsius a Fahrenheit, para el valor 20°C y luego lo imprima por pantalla.
